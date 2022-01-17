@@ -46,7 +46,7 @@
 
   <build>
     <plugins>
-      <!-- Added this plugin so that we can run thekjhl.kjn,mn.,m program easily with mvn test -->
+      <!-- Added this plugin so that we can run thekjhl.kjn,mn.,m plkj.lkj.lrogram easily with mvn test -->
       <plugin>
         <groupId>org.codehaus.mojo</groupId>
         <artifactId>exec-maven-plugin</artifactId>
