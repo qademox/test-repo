@@ -24,6 +24,8 @@ If you restrict the scope to `compile`, you will see:
 - 30 transitive dependencies.
 - 22 vulnerabilities.
 
+test
+
 #### Vulnerable Call Chain
 Main.java has a method call at line 13 that leads to a vulnerability.
 
