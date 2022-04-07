@@ -7,7 +7,7 @@
   <groupId>org.continuous_security</groupId>
   <artifactId>efda-maven-scopes-example</artifactId>
   <version>1.0</version>
-
+  
   <dependencies>
     <dependency>
       <groupId>org.apache.sling</groupId>
