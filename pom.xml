@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.continuous_security</groupId>
-  <artifactId>efda-maven-scopes-example</artifactId>
+  <artifactId>efda-maven-scopes-example</artifactId>  
   <version>1.0</version>
 
   <dependencies>
