@@ -1,7 +1,7 @@
 # Maven Scopes
 
 This project is an example of a project using Maven's Dependencies Scopes feature.
-  
+    
 `pom.xml` at the root directory declares the dependencies:
 - sling.engine 2.0.4-incubator by org.apache.sling
 - kafka_2.11 0.9.0.1 by org.apache.kafka
