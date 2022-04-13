@@ -5,7 +5,7 @@ This project is an example of a project using Maven's Dependencies Scopes featur
 `pom.xml` at the root directory declares the dependencies:
 - sling.engine 2.0.4-incubator by org.apache.sling
 - kafka_2.11 0.9.0.1 by org.apache.kafka
-- junit 4.12 by junit
+- junit 4.12 by junit   
 
 This project checks whether the dependency analysis tool is consistent with how Maven resolves dependencies with `scopes`. For details on Maven's scopes resolution, see https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html#Dependency_Scope.
 
