@@ -15,7 +15,7 @@ The setup of this project results in the following final configuration:
 - `junit` with `<scope>test</scope>`.
 
 The number of direct and transitive dependencies varies according to the scope set to run the dependency analysis tool. If you restrict the scope to `test`, you will see:
-- 3 direct dependencies.
+- 3 direct dependencies.   
 - 31 transitive dependencies.
 - 15 vulnerabilities.
 
